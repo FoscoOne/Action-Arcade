@@ -1,0 +1,93 @@
+#absolutni podlaha
+0,990,101,40,data/images/terrain/steel.png
+100,990,101,40,data/images/terrain/steel.png
+200,990,101,40,data/images/terrain/steel.png
+300,990,101,40,data/images/terrain/steel.png
+400,990,101,40,data/images/terrain/grass.png
+500,990,101,40,data/images/terrain/grass.png
+600,990,101,40,data/images/terrain/grass.png
+700,990,101,40,data/images/terrain/grass.png
+800,990,101,40,data/images/terrain/grass.png
+900,990,101,40,data/images/terrain/grass.png
+1000,990,101,40,data/images/terrain/grass.png
+1100,990,101,40,data/images/terrain/grass.png
+1200,990,101,40,data/images/terrain/stone.png
+1300,990,101,40,data/images/terrain/stone.png
+1400,990,101,40,data/images/terrain/stone.png
+1500,990,101,40,data/images/terrain/stone.png
+1600,990,101,40,data/images/terrain/stone.png
+1700,990,101,40,data/images/terrain/stone.png
+1800,990,101,40,data/images/terrain/stone.png
+1900,990,101,40,data/images/terrain/stone.png
+1900,910,101,80,data/images/terrain/donotcross.png
+1130,950,101,40,data/images/terrain/donotcross.png
+1950,870,101,40,data/images/terrain/donotcross.png
+1950,830,101,40,data/images/terrain/donotcross.png
+
+#prvni patro budovy
+0,915,101,20,data/images/terrain/steel.png
+100,915,50,20,data/images/terrain/steel.png
+200,915,101,20,data/images/terrain/steel.png
+300,915,90,25,data/images/terrain/steel.png
+
+#druhe patro budovy
+0,830,101,20,data/images/terrain/steel.png
+100,830,101,20,data/images/terrain/steel.png
+200,830,40,20,data/images/terrain/steel.png
+300,830,95,20,data/images/terrain/steel.png
+
+#treti patro budovy
+0,750,101,20,data/images/terrain/steel.png
+100,750,40,20,data/images/terrain/steel.png
+200,750,101,20,data/images/terrain/steel.png
+300,750,95,20,data/images/terrain/steel.png
+
+#ctvrte patro budovy
+0,680,101,20,data/images/terrain/steel.png
+100,680,101,20,data/images/terrain/steel.png
+200,680,40,20,data/images/terrain/steel.png
+300,680,95,20,data/images/terrain/steel.png
+
+#ctvrte patro budovy
+0,600,30,20,data/images/terrain/steel.png
+100,600,101,20,data/images/terrain/steel.png
+200,600,101,20,data/images/terrain/steel.png
+300,600,95,20,data/images/terrain/steel.png
+
+#pate patro budovy
+0,530,101,20,data/images/terrain/steel.png
+100,530,101,20,data/images/terrain/steel.png
+200,530,40,20,data/images/terrain/steel.png
+300,530,95,20,data/images/terrain/steel.png
+
+#seste patro budovy
+0,457,101,20,data/images/terrain/steel.png
+100,457,50,20,data/images/terrain/steel.png
+200,457,101,20,data/images/terrain/steel.png
+300,457,95,20,data/images/terrain/steel.png
+
+#sedme patro budovy
+0,384,20,20,data/images/terrain/steel.png
+100,384,101,20,data/images/terrain/steel.png
+200,384,101,20,data/images/terrain/steel.png
+300,384,95,20,data/images/terrain/steel.png
+
+#plovouci trava
+400,750,101,40,data/images/terrain/floatgrass.png
+500,750,101,40,data/images/terrain/floatgrass.png
+600,750,101,40,data/images/terrain/floatgrass.png
+700,750,40,40,data/images/terrain/floatgrass.png
+800,750,101,40,data/images/terrain/floatgrass.png
+900,750,101,40,data/images/terrain/floatgrass.png
+1000,750,101,40,data/images/terrain/floatgrass.png
+1100,750,50,40,data/images/terrain/floatgrass.png
+
+#plovouci kamen
+1200,750,101,40,data/images/terrain/stone.png
+1300,750,101,40,data/images/terrain/stone.png
+1400,750,101,40,data/images/terrain/stone.png
+1500,750,40,40,data/images/terrain/stone.png
+1600,750,101,40,data/images/terrain/stone.png
+1700,750,101,40,data/images/terrain/stone.png
+1800,750,101,40,data/images/terrain/stone.png
+1800,710,71,40,data/images/terrain/stone.png
